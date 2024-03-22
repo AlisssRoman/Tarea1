@@ -1,0 +1,40 @@
+{
+    "producto":[
+        {
+            "Id": 1,
+            "Descripcion": "Mouse",
+            "Precio": "30.00",
+            "Imagen": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.printonerperu.com%2Fproducto%2Fmouse-gamer-logitech-g203-lightsync-optico-negro%2F&psig=AOvVaw2gVEJG35T9mZ9vaiTsaF3F&ust=1711222910930000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPii6J_QiIUDFQAAAAAdAAAAABAE"
+        },
+        {
+            "Id": 2,
+            "Descripcion": "Disco Duro",
+            "Precio": "120.00",
+            "Imagen": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.elespanol.com%2Fomicrono%2Ftecnologia%2F20210425%2Fdiscos-duros-gamers-vienen-rgb-sincronizacion-perifericos%2F575943422_0.html&psig=AOvVaw3owxuvtPSPRDz8Jqm5yzJ9&ust=1711222961853000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCskrjQiIUDFQAAAAAdAAAAABAE"
+        },
+        {
+            "Id": 3,
+            "Descripcion": "Pantalla",
+            "Precio": "250.00",
+            "Imagen": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wired.com%2Farticulos%2Flos-mejores-monitores-para-gaming-en-el-mercado&psig=AOvVaw3096IBifq4DPrnAoubtu4x&ust=1711222982103000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJj3l8LQiIUDFQAAAAAdAAAAABAE"
+        },
+        {
+            "Id": 4,
+            "Descripcion": "Memoria RAM",
+            "Precio": "100.00",
+            "Imagen": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mercadolibre.com.pe%2Fmemoria-ram-vengeance-rgb-pro-gamer-color-negro-32gb-2-corsair-cmw32gx4m2a2666c16%2Fp%2FMPE18346929&psig=AOvVaw2PQz2MMAedJ7OqXEBfLplo&ust=1711223030583000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPDpv9jQiIUDFQAAAAAdAAAAABAE"
+        },
+        {
+            "Id": 5,
+            "Descripcion": "Laptop",
+            "Precio": "2549.99",
+            "Imagen": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kabifperu.com%2Fproducto%2Flaptop-asus-gl704g-i7-8750h-gl704gw-ev057t-gaming-17-i7-512sdd-16gb-rtx-2070-8g-w10-mochila-mouse%2F&psig=AOvVaw1JU9aRBEnp0_rJCCCJD--L&ust=1711223042348000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDwrd_QiIUDFQAAAAAdAAAAABAE"
+        },
+        {
+            "Id": 6,
+            "Descripcion": "Audifonos SONIC",
+            "Precio": "750.00",
+            "Imagen": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fphantom.pe%2Fsony-inzone-h3-audifonos-multiplataforma-blanco.html&psig=AOvVaw0RbHpva0kfDpi3Pj5GRtXd&ust=1711223086016000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKiat_TQiIUDFQAAAAAdAAAAABAJ"
+        }
+    ]
+}
